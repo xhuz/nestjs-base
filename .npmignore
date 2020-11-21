@@ -1,0 +1,17 @@
+# source
+**/*.ts
+*.ts
+
+# definitions
+!**/*.d.ts
+!*.d.ts
+
+# misc
+package-lock.json
+tsconfig.json
+.prettierrc.js
+.eslintrc.js
+.editorconfig
+
+
+

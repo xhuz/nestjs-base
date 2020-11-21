@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "commonjs",
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es6",
+    "allowJs": true
+  },
+  "include": ["**/*.ts", "test/**/*.ts"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
